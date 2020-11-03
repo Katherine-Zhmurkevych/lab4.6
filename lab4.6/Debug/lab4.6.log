@@ -1,0 +1,5 @@
+﻿  4.6.cpp
+D:\Катерина\1 семестр\Алгоритмізація і програмування\lab4.6\lab4.6\4.6.cpp(24,6): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Катерина\1 семестр\Алгоритмізація і програмування\lab4.6\lab4.6\4.6.cpp(38,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Катерина\1 семестр\Алгоритмізація і програмування\lab4.6\lab4.6\4.6.cpp(50,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  lab4.6.vcxproj -> D:\Катерина\1 семестр\Алгоритмізація і програмування\lab4.6\Debug\lab4.6.exe
